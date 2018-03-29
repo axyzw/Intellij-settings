@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="db" type="Native" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping ext="ser" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
