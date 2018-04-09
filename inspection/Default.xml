@@ -1,5 +1,6 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
+  <inspection_tool class="AndroidDomInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AndroidLintUseSparseArrays" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CodeBlock2Expr" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="Convert2MethodRef" enabled="false" level="WARNING" enabled_by_default="false" />
