@@ -1,0 +1,8 @@
+<templateSet group="plain">
+  <template name="thri" value="throw new IllegalStateException();" description="throw new IllegalStateException" toReformat="false" toShortenFQNames="false">
+    <context>
+      <option name="GROOVY_STATEMENT" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
