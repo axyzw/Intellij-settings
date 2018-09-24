@@ -1,12 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="thornyreader" />
-    <option name="defaultScopeName" value="thornyreader" />
+    <option name="customScope" value="readera" />
+    <option name="defaultScopeName" value="readera" />
     <option name="localCaseSensitive" value="true" />
-    <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="thornyreader" />
+    <option name="SEARCH_SCOPE" value="readera" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
